@@ -19,7 +19,7 @@ Clone this repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/student-records-db.git
+git clone (https://github.com/mmankaflo/Student-records.git)
 cd student-records-db
 Open your SQL client or DBMS (e.g., MySQL Workbench, pgAdmin, DBeaver)
 
